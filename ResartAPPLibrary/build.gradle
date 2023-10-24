@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.restartlibrary'
+    namespace 'com.example.resartapplibrary'
     compileSdk 33
 
     defaultConfig {
-        minSdk 29
+        minSdk 21
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"

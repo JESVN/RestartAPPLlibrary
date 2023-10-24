@@ -1,4 +1,4 @@
-package com.example.restartlibrary;
+package com.example.resartapplibrary;
 
 import org.junit.Test;
 
